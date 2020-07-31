@@ -1,4 +1,4 @@
-# formvalidation
+# junior
 
 ## Project setup
 ```
